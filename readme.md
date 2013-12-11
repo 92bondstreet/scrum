@@ -1,6 +1,6 @@
 # SCRUM
 
-Un ensemble de définitions, lignes de conduite, actions... tirées de lecture et d'expèrience.
+Un ensemble de définitions, lignes de conduite, rôles, actions... tirées de lecture et d'expérience.
 
 *Remarque : afin d'aller à l'essentiel, les phrases ne font pas plus de 140 caractères.*
 
