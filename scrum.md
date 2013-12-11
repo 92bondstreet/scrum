@@ -26,9 +26,14 @@ Le développement des fonctionnalités se fait par priorités.
 Le sprint est un cycle de développement des fonctionnalités essentielles et prioritaires.
 On intègre le feedback du client dans le développement.
 
+
 ## Le(s) role(s) de chacun
 
 **Augmenter la valeur ajoutée du logiciel.**
+Le Product Owner est le client.
+Le Product Backlog est la liste des fonctionnalités du logiciel.
+Le Product Backlog est hierarchisé par priorité unique.
+Le Scrum Master facilite le travail. Il n'est pas le chef de projet.
 Flexible et souple.
 Libérer le potentiel de chacun.
 Satisfaire le client.
@@ -38,5 +43,13 @@ Vouloir améliorer le produit.
 Le client change pour améliorer son produit.
 Le client donne des priorités aux fonctionnalités.
 La spécification et la conception se fait au cours des développements des fonctionnalités.
+Le client doit s'investir dans le développement.
+Le client teste les versions et remonte aux développeur ses sentiments et changements.
+Les développeurs doivent comprendrent le client et son logiciel.
+Le client est responsable de la compréhension de ses besoins.
+Objectif commun : maximiser la valeur produite.
+
 
 ## Le processus
+
+todo
