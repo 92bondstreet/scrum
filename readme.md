@@ -20,7 +20,7 @@ Un ensemble de définitions, lignes de conduite, rôles, actions... tirées de l
 - Faire preuve de réactivité.
 - Prendre en compte le changement.
 - S'adapter, c'est valoriser le produit.
-- Un logiciel réussi est un logiciel qui 
+- Un logiciel réussi est un logiciel qui plaît au client.
 - Les problèmes ? Ne pas les repousser mais les résoudre. On s'améliore dans la difficulté.
 - Un bug se corrige plus facilement entre 2 versions très proche dans le temps.
 - Le développement des fonctionnalités se fait par priorités.
