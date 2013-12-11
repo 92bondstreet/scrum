@@ -9,6 +9,7 @@ Un ensemble de définitions, lignes de conduite, actions... tirées de lecture e
 ## La philosophie
 
 **Augmenter la réactivité du développement.**
+**La qualité n'est pas négociable.**
 Livraison fréquente et stable du logiciel.
 Méthodologie souple et légère.
 Le développement logiciel doit être court et prédictible.
@@ -25,15 +26,17 @@ Un bug se corrige plus facilement entre 2 versions très proche dans le temps.
 Le développement des fonctionnalités se fait par priorités.
 Le sprint est un cycle de développement des fonctionnalités essentielles et prioritaires.
 On intègre le feedback du client dans le développement.
+On ne livre pas un logiciel que les développeurs jugent mauvais.
+
 
 
 ## Le(s) role(s) de chacun
 
 **Augmenter la valeur ajoutée du logiciel.**
+**L'équipe de développement est flexible sur les développments à venir mais inflexible sur le développement en cours.**
 Le Product Owner est le client.
-Le Product Backlog est la liste des fonctionnalités du logiciel.
-Le Product Backlog est hierarchisé par priorité unique.
 Le Scrum Master facilite le travail. Il n'est pas le chef de projet.
+Le Scrum Master protège les développeurs des problèmes.
 Flexible et souple.
 Libérer le potentiel de chacun.
 Satisfaire le client.
@@ -48,8 +51,15 @@ Le client teste les versions et remonte aux développeur ses sentiments et chang
 Les développeurs doivent comprendrent le client et son logiciel.
 Le client est responsable de la compréhension de ses besoins.
 Objectif commun : maximiser la valeur produite.
+L'equipe est responsable du développement : elle gère son planning de manière transparente.
+Les développeurs doivent être autonomes et responsables.
+
 
 
 ## Le processus
 
-todo
+Le Product Backlog est la liste des fonctionnalités du logiciel.
+Le Product Backlog est hierarchisé par priorité unique.
+Le Sprint Backlog est la liste des fonctionnalités à réaliser durant le sprint.
+Adopter des pratiques de développement optimales : mettre en place une usine logiciel automatisée.
+Les tests sont automatiques : on connait donc la qualité du logiciel à tout moment.
